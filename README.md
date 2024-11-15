@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and l
 - 🌍 **Location**: Telangana, Hyd
 - 👨‍💻 **Currently Working On**: A Telegram Bot
 - 📚 **Currently Learning**: Currently Am Learing TS
-- 💬 **Ask Me About**: [Technologies/Fields You're Comfortable Discussing]
-- ⚡ **Fun Fact**: [Something Interesting About You!]
+- 💬 **Ask Me About**: You Can Freely Ask Me About PY Or Nodejs
+- ⚡ **Fun Fact**: I Code While Listening To Brazilian Phonks
 
 ---
 
@@ -32,13 +32,13 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and l
 
 Here are a few projects that I’m most proud of:
 
-- **[Project Name](https://github.com/yourusername/project-repo)**  
+- **[Project Name](https://github.com/syntaxuuu/Simple-Discord-Dashboard)**  
   _Brief description of the project, what it does, and the technologies used._
 
-- **[Another Cool Project](https://github.com/yourusername/another-repo)**  
+- **[Another Cool Project](https://github.com/Soon!)**  
   _Another brief description._
 
-- **[Awesome Bot Dashboard](https://github.com/yourusername/awesome-bot-dashboard)**  
+- **[Awesome Bot Dashboard](https://github.com/Soon!)**  
   _A Discord bot dashboard for managing and monitoring bots._
 
 > *(Add more projects or create a [Pinned Repositories](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/pinning-repositories-to-your-profile) section in GitHub)*
