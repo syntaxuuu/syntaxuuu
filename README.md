@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and l
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=syntaxuuu&theme=outrun&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=syntaxuuu&theme=outrun&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxuuu&theme=outrun&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
