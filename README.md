@@ -28,13 +28,6 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and l
 
 ---
 
-## 📈 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 ## 🚀 My Projects
 
 Here are a few projects that I’m most proud of:
