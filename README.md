@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Syntax!  <img src="left_arrow.jpg" alt="Logo" width="40" height="40" style="border-radius: 50%;">
+# Hi there! 👋 I'm Syntax!
 
 Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and lifelong learner dedicated to creating innovative and impactful solutions. Here, you’ll find a variety of projects that showcase my skills, interests, and creativity. Let's connect and build something amazing together!
 
