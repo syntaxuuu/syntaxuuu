@@ -41,34 +41,6 @@ Here are a few projects that I’m most proud of:
 
 ---
 
-## 💼 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/yourlinkedin)  
-- [Twitter](https://twitter.com/yourtwitter)  
-- [Email](mailto:youremail@example.com)  
-
-Let’s connect and talk about tech, projects, or just share some ideas! 😊
-
----
-
-## 📅 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-*(This section updates automatically with your coding activity. To set it up, follow [WakaTime's instructions](https://wakatime.com/))* 
-
----
-
-## 🌱 Recent Blog Posts
-
-> *(If you have a blog, add recent articles here using GitHub's [Markdown Links](https://guides.github.com/features/mastering-markdown/) or a [RSS feed integration](https://github.com/gautamkrishnar/blog-post-workflow))*  
-> 1. [Blog Post Title](https://yourblog.com/post1)  
-> 2. [Another Blog Post](https://yourblog.com/post2)  
-> 3. [More Blogging](https://yourblog.com/post3)  
-
----
-
 ## 🎉 Fun Facts About Me
 
 - I love coffee, coding, and cats! 🐱☕
