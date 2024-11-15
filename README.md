@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="path/to/your-image.png" alt="Your Name" width="100" height="100" style="border-radius: 50%;">
+  <img src="20395.jpg" alt="Your Name" width="100" height="100" style="border-radius: 50%;">
 </div>
 
 # Hi there! 👋 I'm Syntax!
