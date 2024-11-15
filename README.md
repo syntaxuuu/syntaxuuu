@@ -24,24 +24,20 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and l
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-> *(Add or replace badges for the tools and languages you use)*
-
 ---
 
 ## 🚀 My Projects
 
 Here are a few projects that I’m most proud of:
 
-- **[Project Name](https://github.com/syntaxuuu/Simple-Discord-Dashboard)**  
+- **[Discord-Bot-Dashboard](https://github.com/syntaxuuu/Simple-Discord-Dashboard)**  
   _Brief description of the project, what it does, and the technologies used._
 
-- **[Another Cool Project](https://github.com/Soon!)**  
+- **[Soon!](https://github.com/Soon!)**  
   _Another brief description._
 
-- **[Awesome Bot Dashboard](https://github.com/Soon!)**  
+- **[Soon!](https://github.com/Soon!)**  
   _A Discord bot dashboard for managing and monitoring bots._
-
-> *(Add more projects or create a [Pinned Repositories](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/pinning-repositories-to-your-profile) section in GitHub)*
 
 ---
 
