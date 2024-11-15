@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="20395.jpg" alt="Your Name" width="100" height="100" style="border-radius: 50%;">
-</div>
-
 # Hi there! 👋 I'm Syntax!
 
 Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and lifelong learner dedicated to creating innovative and impactful solutions. Here, you’ll find a variety of projects that showcase my skills, interests, and creativity. Let's connect and build something amazing together!
