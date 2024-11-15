@@ -31,13 +31,13 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and l
 Here are a few projects that I’m most proud of:
 
 - **[Discord-Bot-Dashboard](https://github.com/syntaxuuu/Simple-Discord-Dashboard)**  
-  _Brief description of the project, what it does, and the technologies used._
+  _A Simple Discord Bot Dashboard Made Using - HTML, CSS && JavaScript._
 
 - **[Soon!](https://github.com/Soon!)**  
-  _Another brief description._
+  _Soon!._
 
 - **[Soon!](https://github.com/Soon!)**  
-  _A Discord bot dashboard for managing and monitoring bots._
+  _Soon!._
 
 ---
 
